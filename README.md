@@ -8,6 +8,9 @@
 
 **say *hello* on [Twitter](https://twitter.com/gr8nexx).**
 
+## Table of Contents
+
+- [OPen Source LMS Platforms](#Open&nbsp;Source&nbsp;LMS&nbsp;Platforms)
 
 
 ## Contributing
