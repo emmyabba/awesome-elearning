@@ -6,6 +6,10 @@
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
+**say *hello* on [Twitter](https://twitter.com/gr8nexx).**
+
+
+
 ## Contributing
 Found an awesome resource on web development? Send me a pull request! Just follow the guidelines
 
