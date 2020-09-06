@@ -10,7 +10,12 @@
 
 ## Table of Contents
 
-- [OPen Source LMS Platforms](#Open&nbsp;Source&nbsp;LMS&nbsp;Platforms)
+- [Open Source LMS Platforms](#Open&nbsp;Source&nbsp;LMS&nbsp;Platforms)
+
+
+## Open Source LMS Platforms
+
+- [Moodle](https://moodle.org/) - *Moodle is a free and open-source LMS written in PHP and distributed under the GNU General Public License*
 
 
 ## Contributing
