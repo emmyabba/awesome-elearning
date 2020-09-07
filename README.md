@@ -16,7 +16,7 @@
 ## Open Source LMS Platforms
 
 - [Moodle](https://moodle.org/) - *Moodle is a free and open-source LMS written in PHP and distributed under the GNU General Public License*
-
+- [Chamilo](https://chamilo.org/en/) - *Chamilo is a free software e-learning and content management system, aimed at improving access to education and knowledge globally*
 
 ## Contributing
 Found an awesome resource on web development? Send me a pull request! Just follow the guidelines
