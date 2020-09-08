@@ -19,7 +19,7 @@
 - [Chamilo](https://chamilo.org/en/) - *Chamilo is a free software e-learning and content management system, aimed at improving access to education and knowledge globally*
 - [Open&nbsp;edX](https://open.edx.org/tag/learning-management-system/)
 - [Totara&nbsp;Learn](https://www.totaralearning.com) - *Totara Learn is a flexible, open learning management system (LMS) that gives organisations the freedom to learn.*
-
+- [Canvas](https://www.instructure.com/canvas/) -*An open source LMS that is free for instructors.*
 ## Contributing
 Found an awesome resource on web development? Send me a pull request! Just follow the guidelines
 
