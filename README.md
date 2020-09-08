@@ -20,6 +20,10 @@
 - [Open&nbsp;edX](https://open.edx.org/tag/learning-management-system/)
 - [Totara&nbsp;Learn](https://www.totaralearning.com) - *Totara Learn is a flexible, open learning management system (LMS) that gives organisations the freedom to learn.*
 - [Canvas](https://www.instructure.com/canvas/) -*An open source LMS that is free for instructors.*
+- [Forma](https://www.formalms.org/) - *An open source, web-base eLearning platform that grades high on managing and delivering online training courses*
+
+
+
 ## Contributing
 Found an awesome resource on web development? Send me a pull request! Just follow the guidelines
 
