@@ -11,7 +11,7 @@
 ## Table of Contents
 
 - [LMS Platforms](#LMS&nbsp;Platforms)
-
+- [LMS Platforms](#Video&nbsp;Editing&nbsp;tools)
 
 ## LMS Platforms
 
