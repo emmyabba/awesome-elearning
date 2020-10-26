@@ -23,6 +23,7 @@
 - [Forma](https://www.formalms.org/) - *An open source, web-base eLearning platform that grades high on managing and delivering online training courses*
 - [Effectus](https://www.effectuslms.com/) - *Focusing on the learner to improve engagement, mobility, and collaboration.*
 
+## Video Editing tools
 
 ## Contributing
 Found an awesome resource on web development? Send me a pull request! Just follow the guidelines
