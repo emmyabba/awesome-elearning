@@ -24,6 +24,8 @@
 - [Effectus](https://www.effectuslms.com/) - *Focusing on the learner to improve engagement, mobility, and collaboration.*
 
 ## Video Editing tools
+- [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html)
+
 
 ## Contributing
 Found an awesome resource on web development? Send me a pull request! Just follow the guidelines
